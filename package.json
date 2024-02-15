@@ -1,0 +1,11 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "cron": "^3.1.6",
+    "discord.js": "^14.14.1"
+  }
+}
